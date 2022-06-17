@@ -1,5 +1,8 @@
 ### joey ; milktea ; menopause
-![](https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif)  
+<img src="[image.png](https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif)" width="200" height="100"> 
+
+[![](https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif)]: #
+
 hi! i have multiple different names but just call me joey :)  
 #### about me :D
 my pronouns are he/they and i'm unlabeled. i usually play valorant, do some coding, talk in discord vc's and a lot more.  
