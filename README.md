@@ -1,5 +1,5 @@
 ### joey ; milktea ; menopause
-<img src="[image.png](https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif)" width="200" height="100"> 
+<img src="https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif" width="200" height="100"> 
 
 [![](https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif)]: #
 
@@ -10,5 +10,7 @@ i'm 15 living in the U.S. and i speak english and spanish and a tiny bit of fren
 i usually code with javascript but do some html and css every once in a while :p  
 i love music like taylor swift, harry styles, ariana grande, olivia rodrigo, and billie eilish!
 #### social media stuff
-[twitter :)](https://twitter.com/joeysuckslol) [instagram :p](instagram.com/joeysuckslol)  
-[discord :O](https://discord.gg/joy) [tiktok :>](https://tiktok.com/joeysuckslol)
+[**twitter :)**](https://twitter.com/joeysuckslol)  
+[**instagram :p**](instagram.com/joeysuckslol)  
+[**discord :O**](https://discord.gg/joy)  
+[**tiktok :>**](https://tiktok.com/joeysuckslol)
