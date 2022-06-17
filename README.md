@@ -1,5 +1,5 @@
 ### joey ; milktea ; menopause
-<img src="https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif" width="200" height="200"> 
+<img src="https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif" width="400" height="200"> 
 
 [![](https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif)]: #
 
