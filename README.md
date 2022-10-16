@@ -2,7 +2,7 @@
   <img src="https://github.com/isthatmilktea/isthatmilktea/blob/main/wandavision-just-a-case-of-the-mondays.gif" width="400" height="200">
 
 ### joey ; milktea ; menopause  
-hi! i have multiple different names but just call me joey :)
+hi! i have multiple different nicknames but just call me joey :)
 
 #### about me :D  
 my pronouns are he/they and i'm unlabeled. i usually play valorant, do some coding, talk in discord vc's and a lot more.  
